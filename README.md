@@ -11,29 +11,15 @@ The data was provided as a collection of PARQUET files sorted by month and year.
 ## Section 2: map of documentation
 ```bash
 ds-nyc-ride-services-proj
-├── DATA
-│   ├── cleaned-data.csv
-│   └── source data
-├── OUTPUT
-│   ├── Lyft-basefare-density.png
-│   ├──Lyft-basefare-box.png
-│   ├──Lyft-basefare-time.png
-│   ├──Lyft-monthly.png
-│   ├──Lyft-totalfare-box.png
-│   ├──Lyft-totalfare-density.png
-│   ├──Lyft-totalfare-time.png
-│   ├──lyft-yearly.png
-│   ├──Uber-basefare-box.png
-│   ├──Uber-basefare-density.png
-│   ├──Uber-basefare-time.png
-│   ├──Uber-monthly.png
-│   ├──Uber-totalfare-box.png
-│   ├──Uber-totalfare-density.png
-│   ├──Uber-totalfare-time.png
-│   ├──uber-yearly.png
-├── SCRIPTS
+├── Materials
+│   ├── Arima article
+│   ├── Blog Post Link
+│   ├── Data Appendix
 │   ├── cleaning_data.ipynb
-│   └── data_analysis.ipynb
+│   ├── data_analysis.ipynb
+│   └── source data
+├── Hook Statement
+├── Rubric
 ├── LICENSE.md
 └── README.md
 ```
